@@ -1,7 +1,7 @@
-# Predicting-Heart-Disease-Using-Machine-Learning
-Predicting Heart Disease using Machine Learning
+# Predicting Heart Disease Using Machine Learning
+Predicting Heart Disease Using Machine Learning
 Overview
-This project leverages machine learning techniques to predict the presence of heart disease using a dataset from the Cleveland database. By analyzing various clinical parameters, we aim to identify significant risk factors that contribute to heart disease, assisting in early diagnosis and prevention.
+This project leverages machine learning techniques to predict the presence of heart disease using a dataset from the Cleveland database. By analyzing various clinical parameters, we aim to identify significant risk factors contributing to heart disease, assisting in early diagnosis and prevention.
 
 Steps Involved
 Problem Definition: Classify whether a patient has heart disease based on clinical data.
